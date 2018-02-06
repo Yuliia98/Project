@@ -1,0 +1,6 @@
+E:\3 курс\БД\Курсач\Softheme\Softheme\bin\Debug\Softheme.exe.config
+E:\3 курс\БД\Курсач\Softheme\Softheme\obj\Debug\Softheme.csprojResolveAssemblyReference.cache
+E:\3 курс\БД\Курсач\Softheme\Softheme\bin\Debug\Softheme.exe
+E:\3 курс\БД\Курсач\Softheme\Softheme\bin\Debug\Softheme.pdb
+E:\3 курс\БД\Курсач\Softheme\Softheme\obj\Debug\Softheme.exe
+E:\3 курс\БД\Курсач\Softheme\Softheme\obj\Debug\Softheme.pdb
